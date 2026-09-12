@@ -1,0 +1,6 @@
+{
+  "name": "ReLife AI",
+  "description": "ReLife AI is the intelligence and marketplace layer for batteries after their first life. Give Every Battery a Second Life.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
